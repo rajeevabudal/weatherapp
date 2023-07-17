@@ -1,11 +1,12 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue';
 import Count from "./components/count.vue"
+import weather from "./components/weather.vue";
 </script>
 
 <template>
   <header>
-   <Count/>
+   <!-- <Count/> -->
+   <weather/>
   </header>
 </template>
 
