@@ -4,13 +4,12 @@ import weather from "./components/weather.vue";
 </script>
 
 <template>
-  <header>
+ 
    <!-- <Count/> -->
    <weather/>
-  </header>
 </template>
 
-<style scoped>
+<!-- <style scoped>
 header {
   line-height: 1.5;
 }
@@ -37,4 +36,4 @@ header {
     flex-wrap: wrap;
   }
 }
-</style> 
+</style>  -->
